@@ -1,3 +1,5 @@
+<h1 align="center">👋 Hola, me llamo <span style="color:#4CAF50">Claudio Darío</span></h1>
+<h3 align="center">🚀 Soy un Frontend apasionado por el diseño y la programación</h3>
 
 # 💫 Sobre mí
 
